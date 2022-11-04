@@ -5,5 +5,5 @@ deps/jemalloc/build-aux/config.sub
 curl -sL -o config.guess 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.guess;hb=HEAD'
 curl -sL -o config.sub 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.sub;hb=HEAD'
 
-(2) 执行构建敏命令：
+(2) 执行构建命令：
 make
